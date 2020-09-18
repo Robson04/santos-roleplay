@@ -346,7 +346,6 @@ enum E_PLAYER_ITEM
 	Value2,
 	Value3,
 	Value4s[64],
-
 	bool:IsUsing
 };
 new PlayerItemCache[MAX_PLAYERS][MAX_PLAYER_ITEMS][E_PLAYER_ITEM];
